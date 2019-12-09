@@ -10,4 +10,4 @@ dependencies:
   ui: "STRd6/ui:master"
 publish:
   s3:
-    basePath: "public/danielx.net"
+    basePath: "public/youapp.space"
