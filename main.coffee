@@ -10,11 +10,11 @@ if PACKAGE.name is "ROOT"
 
   # Initialize Firebase
   firebase.initializeApp
-    apiKey: "AIzaSyCnhTPOri3XGQ0q5pw0u8dRPZQwr74fpuw"
-    authDomain: "chateau-f2799.firebaseapp.com"
-    databaseURL: "https://chateau-f2799.firebaseio.com"
-    storageBucket: "chateau-f2799.appspot.com"
-    messagingSenderId: "2073045470"
+    apiKey: "AIzaSyBtEKMc_b5HaK-tzl6jSFNp9RaA4qzxGzo",
+    authDomain: "chat-80f0f.firebaseapp.com",
+    databaseURL: "https://chat-80f0f.firebaseio.com",
+    storageBucket: "chat-80f0f.appspot.com",
+    messagingSenderId: "1033893957439"
 
   global.logger = require("./lib/logger")(console.log)
   global.stats = require("./lib/stats")()
